@@ -1,4 +1,4 @@
-# v0rtex-S
+# v0rtex-S for <10.3
 
 A work in progress jailbreak, using Siguza's [v0rtex](https://github.com/Siguza/v0rtex) kernel exploit.
 
